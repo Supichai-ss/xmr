@@ -1,5 +1,3 @@
-sudo nano /etc/systemd/system/xmr.service
-
 [Unit]
 Description=Cpu-Mining-Xmr
 
