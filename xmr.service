@@ -1,9 +1,0 @@
-[Unit]
-Description=Cpu-Mining-Xmr
-
-[Service]
-Type=oneshot
-ExecStart=/home/ubuntu/xmr.sh
-
-[Install]
-WantedBy=multi-user.target
