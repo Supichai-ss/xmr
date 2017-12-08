@@ -1,0 +1,11 @@
+sudo nano /etc/systemd/system/xmr.service
+
+[Unit]
+Description=Cpu-Mining-Xmr
+
+[Service]
+Type=oneshot
+ExecStart=/home/ubuntu/xmr-stak-cpu 
+
+[Install]
+WantedBy=multi-user.target
