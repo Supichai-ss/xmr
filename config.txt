@@ -19,7 +19,7 @@
 "tls_fingerprint" : "",
 
 "pool_address" : "etn-us-east1.nanopool.org:13333",
-"wallet_address" : "etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.b420800a031e3ec187b3ed61acb44fb0cd6e6c22d0198b239620a8603124f01d.test",
+"wallet_address" : "etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.b420800a031e3ec187b3ed61acb44fb0cd6e6c22d0198b239620a8603124f01d.H2",
 "pool_password" : "x",
 
 
