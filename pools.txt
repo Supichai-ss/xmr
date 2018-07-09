@@ -1,0 +1,8 @@
+
+"pool_list" :
+[
+	{"pool_address" : "xmr-us-east1.nanopool.org:14433", "wallet_address" : "441xVurzaUhh825KLKUuTsAaJDzhcXn2EJEFoF7HQ1ywgm8yW6rMH3sWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3xSi2Jn.BF1-1", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : true, "tls_fingerprint" : "", "pool_weight" : 1 },
+],
+
+"currency" : "cryptonight_v7",
+
